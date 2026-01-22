@@ -19,12 +19,3 @@ This project integrates discretization, search-based planning, trajectory genera
 
 ## Results Summary
 The final integrated stack maintained fast planning and execution across multiple maps, improving total flight time by 63.95 s over the earlier baseline. The estimator converged quickly, enabling stable high-speed motion through cluttered environments.
-
-## Assets
-- Thumbnail: `assets/img/projects/autonomous-quadrotor-navigation/3D_Path.png`
-- Figures: `assets/img/projects/autonomous-quadrotor-navigation/cov.png`, `assets/img/projects/autonomous-quadrotor-navigation/astar.png`
-- Report: `assets/docs/autonomous-quadrotor-navigation.pdf`
-
-## Links
-- Report (PDF): `assets/docs/autonomous-quadrotor-navigation.pdf`
-- Repo (TBD): https://github.com/ethsen/REPO-TBD
